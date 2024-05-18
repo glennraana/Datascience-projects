@@ -1,4 +1,4 @@
-#Project Highlights:
+# Project Highlights:
 
 ### Machine Learning Models:
 Explore predictive models built using popular algorithms.
