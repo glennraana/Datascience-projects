@@ -1,4 +1,5 @@
-Project Highlights
+### Project Highlights:
+
 Machine Learning Models:
 Explore predictive models built using popular algorithms.
 Showcase classification, regression, and clustering tasks.
