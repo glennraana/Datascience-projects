@@ -1,4 +1,7 @@
-# Project Highlights:
+# Project Highlights in my projects
+
+### SQL Training
+Murdercase with use of SQL, a good training task for SQL from KAGGLE
 
 ### Machine Learning Models:
 Explore predictive models built using popular algorithms.
