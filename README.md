@@ -1,5 +1,9 @@
 # Project Highlights in my projects
 
+### Machine learnig project predicting Hearth disease. 
+In this project i take the whole project from start to end. We set a goal for project , do data Analyses, clean data and choose model and evalaute model. 
+
+
 ### SQL Training
 Murdercase with use of SQL, a good training task for SQL from KAGGLE
 
